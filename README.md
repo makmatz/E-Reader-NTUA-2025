@@ -1,4 +1,4 @@
-# BookReader
+# E Reader
 
 ## Links
 Το παρακάτω link οδηγεί σε φάκελο στο Google Drive στον οποίο υπάρχει το αρχείο release.apk 
