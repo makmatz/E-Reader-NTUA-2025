@@ -5,9 +5,6 @@
 καθώς και ένα σύντομο βίντεο στο οποίο παρουσιάζουμε τις λειτουργίες της εφαρμογής.
 - https://drive.google.com/drive/folders/1H5snWCbnTseysG4zo8Q5mYcEBsbs7gud?usp=sharing
 
-Το repo της εφαρμογής.
-- https://github.com/ntua-el22005/AAY
-
 ## Οδηγίες εγκατάστασης & χρήσης
 
 ### Εγκατάσταση από APK (User).
